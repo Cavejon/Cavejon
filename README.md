@@ -19,7 +19,6 @@ I'm currently studying some technologies like:
 °<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> Css3
 °<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
 °<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> Django
-°<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.JS
 
 </div>
 <br>
