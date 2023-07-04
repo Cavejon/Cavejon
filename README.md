@@ -6,6 +6,12 @@
 
 I'm currently studying some technologies like:
 
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cavejon=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  </div>
+
 <div style="display: inline_block">
 
 °<img align="center" alt="Cavejon-html" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> JavaScript
@@ -17,12 +23,7 @@ I'm currently studying some technologies like:
 
 </div>
 <br>
-<div>
-  
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavejon&layout=compact&langs_count=7&theme=dracula"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cavejon=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
- 
-  </div>
+
   
 I'm looking for an opportunity to consolidate my studies, in this gitHub we have some examples of a project I've done
 
