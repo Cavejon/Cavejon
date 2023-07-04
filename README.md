@@ -8,7 +8,7 @@ I'm currently studying some technologies like:
 
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cavejon=anuraghazra&layout=donut-vertical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cavejon=anuraghazra&layout=donut-vertical)
  
   </div>
 
