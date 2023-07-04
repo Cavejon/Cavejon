@@ -19,7 +19,7 @@ I'm currently studying some technologies like:
 <br>
 <div>
   
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHenriquePatrocinio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavejon&layout=compact&langs_count=7&theme=dracula"/>
  
   </div>
   
