@@ -20,6 +20,7 @@ I'm currently studying some technologies like:
 <div>
   
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavejon&layout=compact&langs_count=7&theme=dracula"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cavejon=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
  
   </div>
   
