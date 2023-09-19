@@ -6,9 +6,7 @@
 
 I'm currently studying some technologies like:
 
-
- ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=cavejon&show_icons=true&theme=dracula&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavejon&layout=donut-vertical)](https://github.com/cavejon/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
