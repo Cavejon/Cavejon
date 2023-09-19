@@ -24,8 +24,9 @@ I'm currently studying some technologies like:
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 </div>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolcavejon/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRCZlZctzdbFXJkBblhDtZDGDJxJQXlSFFwVpbsDBlZqWlpGQbXqkgJVnpCjnwKgfzsFDr)
+
+[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://portifolioplcavejon.netlify.app/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://youtube.com/c/sujeitoprogramador](https://www.linkedin.com/in/pedrolcavejon/)https://www.linkedin.com/in/pedrolcavejon/)
 
 
 
