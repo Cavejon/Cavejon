@@ -25,7 +25,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 </div>
 <br>
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://portifolioplcavejon.netlify.app/))
+[![Blog](https://img.shields.io/website?label=PortifólioPLCAVEJON&style=for-the-badge&url=https://sujeitoprogramador.com/)]([https://sujeitoprogramador.com](https://portifolioplcavejon.netlify.app/))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://youtube.com/c/sujeitoprogramador](https://www.linkedin.com/in/pedrolcavejon/)https://www.linkedin.com/in/pedrolcavejon/)
 
 
